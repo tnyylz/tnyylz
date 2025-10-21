@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Tunay Yıldız
+👋 Hi, I'm Tunay Yıldız
 
-💻 I'm learning mobile development with **React Native**  
-🌍 I'm interested in **GIS, databases, and smart city systems**  
-📚 Currently working on: a restaurant decision support system  
-🎨 I also design **digital planners and educational posters** on Etsy
+💻 I'm a developer focusing on building robust back-end systems with PHP and C# ASP.NET.
+🌍 My interests lie in full-stack web development, database architecture, and Machine Learning.
+📚 Currently, I'm building a comprehensive Rent-a-Car web application featuring an MVC-like architecture, a full admin dashboard with data visualization, map-based vehicle search, and a complete reservation system.
 
----
+🧰 Technologies & Tools
 
-### 🧰 Technologies & Tools
-- PHP, MySQL, .NET
-- React Native, TailwindCSS
-- Figma, Canva
+Backend: PHP, C# (.NET Core, ASP.NET MVC), SQL (MySQL, MS SQL Server)
 
+Frontend: JavaScript, AJAX, Fetch API, HTML5, CSS3, Bootstrap
+
+
+Tools & Design: Git, Composer, Canva
 ---
 
 ### 📫 Connect with me
