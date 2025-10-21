@@ -15,7 +15,7 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/kullaniciadi)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:mailadresin@gmail.com)
-![Tunay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunayyildiz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunayyildiz&layout=compact&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tunay-yıldız-451553272/)
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:tunayylz22@gmail.com)
+![Tunay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnyylz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnyylz&layout=compact&theme=tokyonight)
